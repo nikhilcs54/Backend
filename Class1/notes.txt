@@ -1,0 +1,27 @@
+Step 1:
+
+Create a folder
+
+Step 2:
+
+"npm init -y" to initailise the package
+
+Step 3:
+
+install express "npm i express"
+
+Step 4:
+
+create a file server.js
+
+Step 5:
+
+Instantnaiate server and define the port where you want to run in "server.js" file
+
+Step 4:
+
+run the server "node server.js"
+
+
+
+...................we have created our first server ..........................................
